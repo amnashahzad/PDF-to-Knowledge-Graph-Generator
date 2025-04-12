@@ -1,0 +1,8 @@
+streamlit
+spacy
+nltk
+py2neo
+PyMuPDF
+pandas
+streamlit-aggrid
+ollama
