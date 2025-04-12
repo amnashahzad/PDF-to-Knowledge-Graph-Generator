@@ -6,3 +6,4 @@ PyMuPDF
 pandas
 streamlit-aggrid
 ollama
+pdfminer.six
